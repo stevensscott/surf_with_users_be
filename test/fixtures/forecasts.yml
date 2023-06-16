@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: MyString
+  wave_height_7AM: 1.5
+  wind_direction_7AM: MyString
+  wind_speed_7AM: 1.5
+  wave_height_12PM: 1.5
+  wind_direction_12PM: MyString
+  wind_speed_12PM: 1.5
+  wave_height_5PM: 1.5
+  wind_direction_5PM: MyString
+  wind_speed_5PM: 1.5
+
+two:
+  date: MyString
+  wave_height_7AM: 1.5
+  wind_direction_7AM: MyString
+  wind_speed_7AM: 1.5
+  wave_height_12PM: 1.5
+  wind_direction_12PM: MyString
+  wind_speed_12PM: 1.5
+  wave_height_5PM: 1.5
+  wind_direction_5PM: MyString
+  wind_speed_5PM: 1.5

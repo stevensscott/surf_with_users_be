@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: MyString
+  observed_condition: MyString
+  board_ridden: MyString
+  match_forecast: MyString
+
+two:
+  date: MyString
+  observed_condition: MyString
+  board_ridden: MyString
+  match_forecast: MyString
